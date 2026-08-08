@@ -18,10 +18,10 @@ The dashboard is designed to help HR teams and business leaders understand workf
 ![Workforce Dashboard](Image/WorkforceHR.png)
 
 ### Compensation & Career Growth
-![Compensation Dashboard](Image/CompensationHR.png)
+![Compensation Dashboard](Image/CompensationHRR.png)
 
 ### Employee Satisfaction & Performance
-![Satisfaction Dashboard](Image/SatisfactionHR.png)
+![Satisfaction Dashboard](Image/SatisfactionHRR.png)
 
 ---
 
