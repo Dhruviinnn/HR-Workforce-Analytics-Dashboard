@@ -9,19 +9,19 @@ The dashboard is designed to help HR teams and business leaders understand workf
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Dashboard](Image/Executive.png)
+![Executive Dashboard](Image/ExecutiveHR.png)
 
 ### Attrition Analysis
-![Attrition Dashboard](Image/Attrition.png)
+![Attrition Dashboard](Image/AttritionHR.png)
 
 ### Workforce Demographics
-![Workforce Dashboard](Image/Workforce.png)
+![Workforce Dashboard](Image/WorkforceHR.png)
 
 ### Compensation & Career Growth
-![Compensation Dashboard](Image/Compensation.png)
+![Compensation Dashboard](Image/CompensationHR.png)
 
 ### Employee Satisfaction & Performance
-![Satisfaction Dashboard](Image/Satisfaction.png)
+![Satisfaction Dashboard](Image/SatisfactionHR.png)
 
 ---
 
